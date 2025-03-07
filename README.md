@@ -22,8 +22,8 @@ Welcome to my GitHub! Here, you can find a collection of my home lab projects, c
 - **Hosting**: Future projects will include TrueNAS, Docker, and other Virtualization methods (Proxmox)
 
 ## 🔗 Connect with Me
- **Email**: [your.email@example.com](mailto:joseph.hardy603@gmail.com)  
- **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/joe-hardy-14487628b/)   
+ **Email**: [joseph.hardy603@gmail.com](mailto:joseph.hardy603@gmail.com)  
+ **LinkedIn**: [https://www.linkedin.com/in/joe-hardy-14487628b/](https://www.linkedin.com/in/joe-hardy-14487628b/)   
 
 ---
 
